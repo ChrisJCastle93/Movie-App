@@ -1,0 +1,9 @@
+node_modules
+build
+npm-debug.log
+.nyc
+.env
+.DS_Store
+vscode
+Before Left:Right Summary Finish Refactor
+Before Autocomplete Refactor
